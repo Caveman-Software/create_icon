@@ -1,9 +1,10 @@
-## create_icon 0.3.4
+# create_icon 0.3.8
+
 A Simple icon to replace the tkinter feather for your programs.
 
-example:
+## Example:
 
-#================================================================
+#
 
     import os
     from tkinter import Tk
@@ -24,12 +25,6 @@ example:
 
     root.mainloop()
 
-#================================================================
+#
 
 The above example allows the icon to be place in the menubar 
-
-#CHANGELOG
-
-- Attempted to add a changelog and History file Failed
-- Removed *.rst files
-- Removed Manifest.in
