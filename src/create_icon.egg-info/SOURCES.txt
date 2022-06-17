@@ -1,9 +1,12 @@
+LICENSE
 LICENSE.md
 LICENSE.txt
 MANIFEST.in
 README.md
 pyproject.toml
 setup.cfg
+Examples/AddIcontoTitlebar.py
+Examples/MKWinda.py
 src/create_icon/__init__.py
 src/create_icon/create_icon.py
 src/create_icon.egg-info/PKG-INFO

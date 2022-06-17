@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: create-icon
-Version: 0.3.8
+Version: 0.3.9
 Summary: A Simple icon to replace the tkinter feather for your programs
 Home-page: https://github.com/Caveman-Software/create_icon
 Author: Michael E Mulvey
@@ -18,14 +18,19 @@ Classifier: Topic :: Software Development :: User Interfaces
 Classifier: Topic :: Utilities
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+License-File: LICENSE
 License-File: LICENSE.md
 License-File: LICENSE.txt
 
-# create_icon 0.3.8
+# create_icon 0.3.9
+## Caveman Software® 2022 
+
+![icon.png](https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png)
+
 
 A Simple icon to replace the tkinter feather for your programs.
 
-## Example:
+### Example:
 
 #
 
