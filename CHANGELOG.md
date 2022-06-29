@@ -1,4 +1,9 @@
 ## CHANGELOG
+
+# Version 0.4.0
+
+Added an image to the readme file depicting the icon in a tkinter window
+
 # Version 0.3.8
 
 - Fixed a version problem. by removing it.
