@@ -2,7 +2,11 @@
 
 # Version 0.4.0
 
-Added an image to the readme file depicting the icon in a tkinter window
+- Added an image to the readme file depicting the icon in a tkinter window.
+
+# Version 0.3.9
+
+- Changed the layout of README.md to conform with Github
 
 # Version 0.3.8
 
