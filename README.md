@@ -1,14 +1,12 @@
-# create_icon 0.3.9
-## Caveman Software® 2022 
+# create_icon 0.4.0
 
-![icon.png](https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png)
-
+## <img src="https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png" width="35" height="35">  Caveman Software® 2022
 
 A Simple icon to replace the tkinter feather for your programs.
 
-### Example:
+----------
 
-#
+### Example
 
     import os
     from tkinter import Tk
@@ -29,6 +27,8 @@ A Simple icon to replace the tkinter feather for your programs.
 
     root.mainloop()
 
-#
+----------
 
-The above example allows the icon to be place in the menubar 
+The above example allows the icon to be place in the menubar
+
+<img src="https://raw.githubusercontent.com/Caveman-Software/create_icon/main/Capture.png" width="35" height="35">

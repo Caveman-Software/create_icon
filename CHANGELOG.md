@@ -1,9 +1,4 @@
 ## CHANGELOG
-# Version 0.3.9 
-
-~Added Caveman picture to readme file 
-
-
 # Version 0.3.8
 
 - Fixed a version problem. by removing it.
