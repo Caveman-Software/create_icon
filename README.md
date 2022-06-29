@@ -29,6 +29,6 @@ A Simple icon to replace the tkinter feather for your programs.
 
 ----------
 
-The above example allows the icon to be place in the menubar
+The above example allows the icon to be place in the menubar as depicted below.
 
 <img src="https://raw.githubusercontent.com/Caveman-Software/create_icon/main/Capture.PNG" width="350" height="350">
