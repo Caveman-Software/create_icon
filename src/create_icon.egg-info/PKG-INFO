@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: create-icon
-Version: 0.4.0
+Version: 0.4.1
 Summary: A Simple icon to replace the tkinter feather for your programs
 Home-page: https://github.com/Caveman-Software/create_icon
 Author: Michael E Mulvey
@@ -18,11 +18,9 @@ Classifier: Topic :: Software Development :: User Interfaces
 Classifier: Topic :: Utilities
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
-License-File: LICENSE
 License-File: LICENSE.md
-License-File: LICENSE.txt
 
-# create_icon 0.4.0
+# create_icon 0.4.1
 
 ## <img src="https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png" width="35" height="35">  Caveman Software® 2022
 
@@ -53,11 +51,22 @@ A Simple icon to replace the tkinter feather for your programs.
 
 ----------
 
-The above example allows the icon to be place in the menubar
+The above example allows the icon to be place in the menubar as depicted below.
 
-<img src="https://raw.githubusercontent.com/Caveman-Software/create_icon/main/Capture.png" width="35" height="35">
+<img src="https://raw.githubusercontent.com/Caveman-Software/create_icon/main/Capture.PNG" width="350" height="350">
+
+[CHANGELOG](CHANGELOG.md)
 
 ## CHANGELOG
+
+# Version 0.4.0
+
+- Added an image to the readme file depicting the icon in a tkinter window.
+
+# Version 0.3.9
+
+- Changed the layout of README.md to conform with Github
+
 # Version 0.3.8
 
 - Fixed a version problem. by removing it.
@@ -79,19 +88,6 @@ The above example allows the icon to be place in the menubar
 - Changes to CHANGELOG add
 
 
-
-# History 
-
-## Create Icon Version 0.3.7
-+ Fixed config files 
-
-
-## Create Icon Version 0.3.6
-
-+ Updated History file and Change / Added support files for PyPi
-+ Added Version info
-+ Added History (This file) to config file
-+ Updated version to current
 
 # MIT License
 
