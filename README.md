@@ -33,4 +33,4 @@ A Simple icon to replace the tkinter feather for your programs.
 
 The above example allows the icon to be place in the menubar
 
-<img src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true" width="95" height="95">
+<img src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true" width="195" height="195">
