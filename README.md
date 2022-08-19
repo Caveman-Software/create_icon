@@ -1,5 +1,5 @@
 # create_icon 0.4.6
-<head><script src='https://raw.githubusercontent.com/Caveman-Software/mygui/main/myprog.js'></script></head>
+
 <img src="https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png" width="35" height="35">  Caveman Software® 2022
 
 Released 8/18/22
