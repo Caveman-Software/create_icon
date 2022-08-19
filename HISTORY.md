@@ -1,4 +1,7 @@
 # History
+## Create Icon version 0.4.5
++ Final fixes to Github views.
+
 
 ## Create Icon Version 0.4.2
 

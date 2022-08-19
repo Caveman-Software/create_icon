@@ -1,4 +1,9 @@
 ## CHANGELOG
+# Version 0.4.5
+- Added ability to view example
+
+# Version 0.4.4
+- Small fix to link to Github
 
 # Version 0.4.3 - Official Release
 
