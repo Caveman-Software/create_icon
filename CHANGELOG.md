@@ -1,4 +1,7 @@
 ## CHANGELOG
+# Version 0.4.6
++ Added Javascript script to Readme.md
+
 # Version 0.4.5
 - Added ability to view example
 
