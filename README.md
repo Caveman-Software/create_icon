@@ -33,4 +33,4 @@ A Simple icon to replace the tkinter feather for your programs.
 
 The above example allows the icon to be place in the menubar
 
-<div><br clear="all"> <img onmouseover="enlargeImg(this)" onmouseout="normalImg(this)" src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true" alt="Arrow Keys" width="200" height="200" align="middle"> Example view.</p></div>
+<div><br clear="all"> <img onmouseover="enlargeImg(this)" onmouseout="normalImg(this)" src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true" alt="Arrow Keys" align="middle"> Example view.</p></div>
