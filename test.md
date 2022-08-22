@@ -1,3 +1,5 @@
+*BLAH* Blah blah
+
 "contributes": {
     "markdown.previewScripts": [
         "js/myprog.js"
