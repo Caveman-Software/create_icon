@@ -1,6 +1,6 @@
 "contributes": {
     "markdown.previewScripts": [
-        "./js/myprog.js"
+        "js/myprog.js"
     ]
 }
 <div>
