@@ -32,7 +32,7 @@ A Simple icon to replace the tkinter feather for your programs.
 ----------
 
 The above example allows the icon to be place in the menubar
-src='https://raw.githubusercontent.com/Caveman-Software/mygui/main/myprog.js'
+
 <div>
     <br><p><img onmouseover="enlargeImg(this)" onmouseout="normalImg(this)" src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true"alt="Power Button" width="142" height="142" align="middle"> Diagram 1</p><br>
 </div>
