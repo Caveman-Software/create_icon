@@ -1,4 +1,4 @@
-# create_icon 0.4.6
+# create_icon 0.4.7
 
 <img src="https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png" width="35" height="35">  Caveman Software® 2022
 
@@ -32,5 +32,7 @@ A Simple icon to replace the tkinter feather for your programs.
 ----------
 
 The above example allows the icon to be place in the menubar
-
-<div><br clear="all"> <img onmouseover="enlargeImg(this)" onmouseout="normalImg(this)" src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true" alt="Arrow Keys" align="middle"> Example view.</p></div>
+<script src='https://raw.githubusercontent.com/Caveman-Software/mygui/main/myprog.js'></script>
+<div>
+    <br><p><img onmouseover="enlargeImg(this)" onmouseout="normalImg(this)" src="https://github.com/Caveman-Software/create_icon/blob/main/Capture.PNG?raw=true"alt="Power Button" width="142" height="142" align="middle"> Diagram 1</p><br>
+</div>
